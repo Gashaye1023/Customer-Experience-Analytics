@@ -13,13 +13,8 @@ This project scrapes reviews from the Google Play Store for three banking apps: 
    - Handled missing data by dropping rows with null values.
    - Normalized the review dates to the format YYYY-MM-DD.
 
-3. **Output**:
-   - The cleaned dataset is saved as `bank_reviews.csv`.
 
-## KPIs
-- **1,200+ reviews collected** with less than 5% missing data.
-- Clean CSV dataset.
-- Organized Git repository with clear commits.
+
 
 ## Requirements
 - Python 3.x
