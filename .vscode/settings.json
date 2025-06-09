@@ -1,0 +1,24 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Pg_conn",
+            "database": "banks",
+            "username": "postgres",
+            "password": "1024"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Bank_review",
+            "database": "bank_reviews",
+            "username": "postgres",
+            "password": "1024"
+        }
+    ]
+}
